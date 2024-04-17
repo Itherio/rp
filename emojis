@@ -1,0 +1,791 @@
+{
+  "emojis": [
+    {
+      "unicode": "😀",
+      "tag": ":grinning:"
+    },
+    {
+      "unicode": "😁",
+      "tag": ":grin:"
+    },
+    {
+      "unicode": "😂",
+      "tag": ":joy:"
+    },
+    {
+      "unicode": "😃",
+      "tag": ":smiley:"
+    },
+    {
+      "unicode": "😄",
+      "tag": ":smile:"
+    },
+    {
+      "unicode": "😅",
+      "tag": ":sweat_smile:"
+    },
+    {
+      "unicode": "😆",
+      "tag": ":laughing:"
+    },
+    {
+      "unicode": "😇",
+      "tag": ":innocent:"
+    },
+    {
+      "unicode": "😈",
+      "tag": ":smiling_imp:"
+    },
+    {
+      "unicode": "😉",
+      "tag": ":wink:"
+    },
+    {
+      "unicode": "😊",
+      "tag": ":blush:"
+    },
+    {
+      "unicode": "😋",
+      "tag": ":yum:"
+    },
+    {
+      "unicode": "😌",
+      "tag": ":relieved:"
+    },
+    {
+      "unicode": "😍",
+      "tag": ":heart_eyes:"
+    },
+    {
+      "unicode": "😎",
+      "tag": ":sunglasses:"
+    },
+    {
+      "unicode": "😏",
+      "tag": ":smirk:"
+    },
+    {
+      "unicode": "😐",
+      "tag": ":neutral_face:"
+    },
+    {
+      "unicode": "😑",
+      "tag": ":expressionless:"
+    },
+    {
+      "unicode": "😒",
+      "tag": ":unamused:"
+    },
+    {
+      "unicode": "😓",
+      "tag": ":sweat:"
+    },
+    {
+      "unicode": "😔",
+      "tag": ":pensive:"
+    },
+    {
+      "unicode": "😕",
+      "tag": ":confused:"
+    },
+    {
+      "unicode": "😖",
+      "tag": ":confounded:"
+    },
+    {
+      "unicode": "😗",
+      "tag": ":kissing:"
+    },
+    {
+      "unicode": "😘",
+      "tag": [
+        ":kissing_heart:",
+        ":kh:"
+      ]
+    },
+    {
+      "unicode": "😙",
+      "tag": [
+        ":kissing_smiling_eyes:",
+        ":kse:"
+      ]
+    },
+    {
+      "unicode": "😚",
+      "tag": [
+        ":kissing_closed_eyes:",
+        ":kce:"
+      ]
+    },
+    {
+      "unicode": "😛",
+      "tag": [
+        ":stuck_out_tongue:",
+        ":sot:"
+      ]
+    },
+    {
+      "unicode": "😜",
+      "tag": [
+        ":stuck_out_tongue_winking_eye:",
+        ":sotwe:"
+      ]
+    },
+    {
+      "unicode": "😝",
+      "tag": [
+        ":stuck_out_tongue_closed_eyes:",
+        ":sotce"
+      ]
+    },
+    {
+      "unicode": "😞",
+      "tag": ":disappointed:"
+    },
+    {
+      "unicode": "😟",
+      "tag": ":worried:"
+    },
+    {
+      "unicode": "😠",
+      "tag": ":angry:"
+    },
+    {
+      "unicode": "😡",
+      "tag": ":rage:"
+    },
+    {
+      "unicode": "😢",
+      "tag": ":cry:"
+    },
+    {
+      "unicode": "😣",
+      "tag": ":persevere:"
+    },
+    {
+      "unicode": "😤",
+      "tag": ":triumph:"
+    },
+    {
+      "unicode": "😥",
+      "tag": [
+        ":disappointed_relieved:",
+        ":dsr:"
+      ]
+    },
+    {
+      "unicode": "😦",
+      "tag": ":frowning:"
+    },
+    {
+      "unicode": "😧",
+      "tag": ":anguished:"
+    },
+    {
+      "unicode": "😨",
+      "tag": ":fearful:"
+    },
+    {
+      "unicode": "😩",
+      "tag": ":weary:"
+    },
+    {
+      "unicode": "😪",
+      "tag": ":sleepy:"
+    },
+    {
+      "unicode": "😫",
+      "tag": ":tired_face:"
+    },
+    {
+      "unicode": "😬",
+      "tag": ":grimacing:"
+    },
+    {
+      "unicode": "😭",
+      "tag": ":sob:"
+    },
+    {
+      "unicode": "😮",
+      "tag": ":open_mouth:"
+    },
+    {
+      "unicode": "😯",
+      "tag": ":hushed:"
+    },
+    {
+      "unicode": "😰",
+      "tag": ":cold_sweat:"
+    },
+    {
+      "unicode": "😱",
+      "tag": ":scream:"
+    },
+    {
+      "unicode": "😲",
+      "tag": ":astonished:"
+    },
+    {
+      "unicode": "😳",
+      "tag": ":flushed:"
+    },
+    {
+      "unicode": "😴",
+      "tag": ":sleeping:"
+    },
+    {
+      "unicode": "😵",
+      "tag": ":dizzy_face:"
+    },
+    {
+      "unicode": "😶",
+      "tag": ":no_mouth:"
+    },
+    {
+      "unicode": "😷",
+      "tag": ":mask:"
+    },
+    {
+      "unicode": "🧐",
+      "tag": [
+        ":face_with_monocle:",
+        ":fwm:"
+      ]
+    },
+    {
+      "unicode": "👿",
+      "tag": ":imp:"
+    },
+    {
+      "unicode": "🤪",
+      "tag": ":zany_face:"
+    },
+    {
+      "unicode": "🤫",
+      "tag": ":shushing_face:"
+    },
+    {
+      "unicode": "🤬",
+      "tag": [
+        ":face_with_symbols_over_mouth:",
+        ":fwsom:"
+      ]
+    },
+    {
+      "unicode": "🤭",
+      "tag": [
+        ":face_with_hand_over_mouth:",
+        ":fwhom:"
+      ]
+    },
+    {
+      "unicode": "🤮",
+      "tag": ":face_vomiting:"
+    },
+    {
+      "unicode": "🤯",
+      "tag": ":exploding_head:"
+    },
+    {
+      "unicode": "🥺",
+      "tag": ":pleading_face:"
+    },
+    {
+      "unicode": "🙁",
+      "tag": ":slight_frown:"
+    },
+    {
+      "unicode": "🙂",
+      "tag": ":slight_smile:"
+    },
+    {
+      "unicode": "🙃",
+      "tag": ":upside_down:"
+    },
+    {
+      "unicode": "🙄",
+      "tag": ":rolling_eyes:"
+    },
+    {
+      "unicode": "🤐",
+      "tag": ":zipper_mouth:"
+    },
+    {
+      "unicode": "🤑",
+      "tag": ":money_mouth:"
+    },
+    {
+      "unicode": "🤒",
+      "tag": ":thermometer_face:"
+    },
+    {
+      "unicode": "🤓",
+      "tag": ":nerd:"
+    },
+    {
+      "unicode": "🤔",
+      "tag": ":thinking:"
+    },
+    {
+      "unicode": "🤕",
+      "tag": ":head_bandage:"
+    },
+    {
+      "unicode": "🤗",
+      "tag": ":hugging:"
+    },
+    {
+      "unicode": "🤠",
+      "tag": ":cowboy:"
+    },
+    {
+      "unicode": "🤡",
+      "tag": ":clown:"
+    },
+    {
+      "unicode": "🤢",
+      "tag": ":nauseated_face:"
+    },
+    {
+      "unicode": "🤣",
+      "tag": ":rofl:"
+    },
+    {
+      "unicode": "🤤",
+      "tag": ":drooling_face:"
+    },
+    {
+      "unicode": "🤥",
+      "tag": ":lying_face:"
+    },
+    {
+      "unicode": "🤧",
+      "tag": ":sneezing_face:"
+    },
+    {
+      "unicode": "🤨",
+      "tag": [
+        ":face_with_raised_eyebrow:",
+        ":fwre:"
+      ]
+    },
+    {
+      "unicode": "🤩",
+      "tag": ":star_struck:"
+    },
+    {
+      "unicode": "🥰",
+      "tag": [
+        ":smiling_face_with_3_hearts:",
+        ":sfw3h:"
+      ]
+    },
+    {
+      "unicode": "🥱",
+      "tag": ":yawning_face:"
+    },
+    {
+      "unicode": "🥲",
+      "tag": [
+        ":smiling_face_with_tear:",
+        ":sfwt:"
+      ]
+    },
+    {
+      "unicode": "🥳",
+      "tag": ":partying_face:"
+    },
+    {
+      "unicode": "🥴",
+      "tag": ":woozy_face:"
+    },
+    {
+      "unicode": "🥵",
+      "tag": ":hot_face:"
+    },
+    {
+      "unicode": "🥶",
+      "tag": ":cold_face:"
+    },
+    {
+      "unicode": "🥸",
+      "tag": ":disguised_face:"
+    },
+    {
+      "unicode": "☺️",
+      "tag": ":relaxed:"
+    },
+    {
+      "unicode": "☹️",
+      "tag": ":frowning2:"
+    },
+    {
+      "unicode": "🏅",
+      "tag": ":medal:"
+    },
+    {
+      "unicode": "🏆",
+      "tag": ":trophy:"
+    },
+    {
+      "unicode": "💯",
+      "tag": ":100:"
+    },
+    {
+      "unicode": "💰",
+      "tag": ":moneybag:"
+    },
+    {
+      "unicode": "💳",
+      "tag": ":credit_card:"
+    },
+    {
+      "unicode": "💵",
+      "tag": ":dollar:"
+    },
+    {
+      "unicode": "📕",
+      "tag": ":closed_book:"
+    },
+    {
+      "unicode": "📖",
+      "tag": ":book:"
+    },
+    {
+      "unicode": "📗",
+      "tag": ":green_book:"
+    },
+    {
+      "unicode": "📘",
+      "tag": ":blue_book:"
+    },
+    {
+      "unicode": "📙",
+      "tag": ":orange_book:"
+    },
+    {
+      "unicode": "📚",
+      "tag": ":books:"
+    },
+    {
+      "unicode": "🗓️",
+      "tag": ":calendar_spiral:"
+    },
+    {
+      "unicode": "🚨",
+      "tag": ":rotating_light:"
+    },
+    {
+      "unicode": "🚩",
+      "tag": ":triangular_flag_on_post:"
+    },
+    {
+      "unicode": "🚫",
+      "tag": ":no_entry_sign:"
+    },
+    {
+      "unicode": "🛠️",
+      "tag": ":tools:"
+    },
+    {
+      "unicode": "🟠",
+      "tag": ":orange_circle:"
+    },
+    {
+      "unicode": "🟡",
+      "tag": ":yellow_circle:"
+    },
+    {
+      "unicode": "🟢",
+      "tag": ":green_circle:"
+    },
+    {
+      "unicode": "🟣",
+      "tag": ":purple_circle:"
+    },
+    {
+      "unicode": "🟤",
+      "tag": ":brown_circle:"
+    },
+    {
+      "unicode": "🟥",
+      "tag": ":red_square:"
+    },
+    {
+      "unicode": "🟦",
+      "tag": ":blue_square:"
+    },
+    {
+      "unicode": "🟧",
+      "tag": ":orange_square:"
+    },
+    {
+      "unicode": "🟨",
+      "tag": ":yellow_square:"
+    },
+    {
+      "unicode": "🟩",
+      "tag": ":green_square:"
+    },
+    {
+      "unicode": "🟪",
+      "tag": ":purple_square:"
+    },
+    {
+      "unicode": "🟫",
+      "tag": ":brown_square:"
+    },
+    {
+      "unicode": "🧡",
+      "tag": ":orange_heart:"
+    },
+    {
+      "unicode": "🧭",
+      "tag": ":compass:"
+    },
+    {
+      "unicode": "👋",
+      "tag": ":wave:"
+    },
+    {
+      "unicode": "👍",
+      "tag": ":thumbsup:"
+    },
+    {
+      "unicode": "👎",
+      "tag": ":thumbsdown:"
+    },
+    {
+      "unicode": "👏",
+      "tag": ":clap:"
+    },
+    {
+      "unicode": "👻",
+      "tag": ":ghost:"
+    },
+    {
+      "unicode": "👽",
+      "tag": ":alien:"
+    },
+    {
+      "unicode": "💎",
+      "tag": ":gem:"
+    },
+    {
+      "unicode": "💚",
+      "tag": ":green_heart:"
+    },
+    {
+      "unicode": "💛",
+      "tag": ":yellow_heart:"
+    },
+    {
+      "unicode": "💜",
+      "tag": ":purple_heart:"
+    },
+    {
+      "unicode": "💞",
+      "tag": ":revolving_hearts:"
+    },
+    {
+      "unicode": "💟",
+      "tag": ":heart_decoration:"
+    },
+    {
+      "unicode": "🔍",
+      "tag": ":mag:"
+    },
+    {
+      "unicode": "🔎",
+      "tag": ":mag_right:"
+    },
+    {
+      "unicode": "🙏",
+      "tag": ":pray:"
+    },
+    {
+      "unicode": "🤍",
+      "tag": ":white_heart:"
+    },
+    {
+      "unicode": "🤎",
+      "tag": ":brown_heart:"
+    },
+    {
+      "unicode": "🎁",
+      "tag": ":gift:"
+    },
+    {
+      "unicode": "🎂",
+      "tag": ":birthday:"
+    },
+    {
+      "unicode": "🎉",
+      "tag": ":tada:"
+    },
+    {
+      "unicode": "🎖️",
+      "tag": ":military_medal:"
+    },
+    {
+      "unicode": "👀",
+      "tag": ":eyes:"
+    },
+    {
+      "unicode": "👁️",
+      "tag": ":eye:"
+    },
+    {
+      "unicode": "👄",
+      "tag": ":lips:"
+    },
+    {
+      "unicode": "👆",
+      "tag": ":point_up_2:"
+    },
+    {
+      "unicode": "👇",
+      "tag": ":point_down:"
+    },
+    {
+      "unicode": "👈",
+      "tag": ":point_left:"
+    },
+    {
+      "unicode": "👉",
+      "tag": ":point_right:"
+    },
+    {
+      "unicode": "👑",
+      "tag": ":crown:"
+    },
+    {
+      "unicode": "👤",
+      "tag": ":bust_in_silhouette:"
+    },
+    {
+      "unicode": "👥",
+      "tag": ":busts_in_silhouette:"
+    },
+    {
+      "unicode": "💀",
+      "tag": ":skull:"
+    },
+    {
+      "unicode": "💔",
+      "tag": ":broken_heart:"
+    },
+    {
+      "unicode": "💕",
+      "tag": ":two_hearts:"
+    },
+    {
+      "unicode": "💖",
+      "tag": ":sparkling_heart:"
+    },
+    {
+      "unicode": "💙",
+      "tag": ":blue_heart:"
+    },
+    {
+      "unicode": "🔗",
+      "tag": ":link:"
+    },
+    {
+      "unicode": "🔥",
+      "tag": ":fire:"
+    },
+    {
+      "unicode": "🔰",
+      "tag": ":beginner:"
+    },
+    {
+      "unicode": "🔴",
+      "tag": ":red_circle:"
+    },
+    {
+      "unicode": "🔵",
+      "tag": ":blue_circle:"
+    },
+    {
+      "unicode": "🖖",
+      "tag": ":vulcan:"
+    },
+    {
+      "unicode": "🥇",
+      "tag": ":first_place:"
+    },
+    {
+      "unicode": "🥈",
+      "tag": ":second_place:"
+    },
+    {
+      "unicode": "🥉",
+      "tag": ":third_place:"
+    },
+    {
+      "unicode": "🪧",
+      "tag": ":placard:"
+    },
+    {
+      "unicode": "⬜",
+      "tag": ":white_large_square:"
+    },
+    {
+      "unicode": "⬛",
+      "tag": ":black_large_square:"
+    },
+    {
+      "unicode": "⚠️",
+      "tag": ":warning:"
+    },
+    {
+      "unicode": "⚡",
+      "tag": ":zap:"
+    },
+    {
+      "unicode": "⚪",
+      "tag": ":white_circle:"
+    },
+    {
+      "unicode": "⚫",
+      "tag": ":black_circle:"
+    },
+    {
+      "unicode": "⛔",
+      "tag": ":no_entry:"
+    },
+    {
+      "unicode": "♻️",
+      "tag": ":recycle:"
+    },
+    {
+      "unicode": "♾️",
+      "tag": ":infinity:"
+    },
+    {
+      "unicode": "☠️",
+      "tag": ":skull_crossbones:"
+    },
+    {
+      "unicode": "✨",
+      "tag": ":sparkles:"
+    },
+    {
+      "unicode": "❤️",
+      "tag": ":heart:"
+    },
+    {
+      "unicode": "❤️‍🔥",
+      "tag": ":heart_on_fire:"
+    },
+    {
+      "unicode": "🇨🇦",
+      "tag": ":fl_cdn:"
+    },
+    {
+      "unicode": "🇺🇲",
+      "tag": ":fl_usa:"
+    }
+  ]
+}
